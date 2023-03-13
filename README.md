@@ -10,8 +10,8 @@ By **Muhammad Bangash**
 
 
 1. We will start with creating a virtual environment in Python for the project so 
-all the necessary packages or dependencies can be installed inside the virtual environment
-o create a virtual environment in Python for your project, you can follow these steps:
+all the necessary packages or dependencies can be installed inside the virtual environment.
+To create a virtual environment in Python for your project, you can follow these steps:
 
 Open your terminal or command prompt.
 
